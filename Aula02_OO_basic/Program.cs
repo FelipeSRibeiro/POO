@@ -77,14 +77,11 @@ Console.WriteLine("O resultado após " + operador + " é: " + resultado);
 */
 /*Crie uma classe chamada "Pessoa" que tenha dois atributos: "Nome" e "Idade". Crie um método chamado "Apresentar" que imprima
 na tela o nome e a idade da pessoa. Crie um objeto dessa classe e chame o método "Apresentar".*/
-/*
-Pessoa pessoa = new Pessoa();
 
-pessoa.Nome = "Felipe";
-pessoa.Idade = 41;
+Pessoa pessoa = new Pessoa("Felipe", 41);
 
-pessoa.Apresentar();
-*/
+Console.WriteLine(pessoa.Apresentar());
+
 /*Crie uma classe chamada "ContaBancaria" que tenha dois atributos: "Saldo" e "Numero". Crie dois métodos: "Depositar" e
 "Sacar". O método "Depositar" deve receber um valor como parâmetro e acrescentar esse valor ao saldo da conta. O método "Sacar"
 deve receber um valor como parâmetro e subtrair esse valor do saldo da conta, desde que haja saldo suficiente. Crie um objeto

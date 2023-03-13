@@ -7,12 +7,18 @@ namespace Aula02_OO_basic
 {
     public class Pessoa
     {
-        public string Nome { get; set; }
-        public int Idade { get; set; }
+        public string Nome { get; private set; }
+        public int Idade { get; private set; }
 
-        public void Apresentar()
+        public Pessoa (string nome, int idade)
         {
-            Console.WriteLine("Seu nome é " + Nome + " e você tem " + Idade + " anos!");
+            this.Nome = nome;
+            this.Idade = idade;
+        }
+
+        public string Apresentar()
+        {
+            return "Seu nome é " + Nome + " e você tem " + Idade + " anos!";
         }
     }
 }
