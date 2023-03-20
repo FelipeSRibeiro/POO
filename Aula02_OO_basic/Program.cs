@@ -1,11 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
 
+using Aula02_OO_basic;
+
 // Pratique o C#
 
 /*Crie um programa que peça ao usuário para digitar um número inteiro e verifique se o número é par ou ímpar.
 Em seguida, imprima na tela uma mensagem informando o resultado*/
-/*
+
  int numero;
 
  Console.WriteLine("Digite um número: ");
@@ -16,10 +18,10 @@ Em seguida, imprima na tela uma mensagem informando o resultado*/
  }else{
     Console.WriteLine("O número " + numero + " é ímpar");
  };
-*/
+
 /*Crie um programa que calcule a média de três notas informadas pelo usuário.
  Em seguida, imprima na tela a média calculada.*/
-/*
+
  double nota1, nota2, nota3, media;
 
  Console.WriteLine("Digite a primeira nota: ");
@@ -32,10 +34,10 @@ Em seguida, imprima na tela uma mensagem informando o resultado*/
  media = (nota1 + nota2 + nota3) / 3;
 
  Console.WriteLine("A média final é: " + media);
-*/
+
 /*Crie um programa que peça ao usuário para digitar um número inteiro positivo e, em seguida, imprima todos os números pares
 entre 1 e o número informado.*/
-/*
+
 int numPositivo;
 
 Console.WriteLine("Digite um número positivo: ");
@@ -46,17 +48,17 @@ for(int x = 1; x <= numPositivo; x++){
         Console.WriteLine(x);
     }
 }
-*/
+
 
 // Atividade aula 02
 
-using Aula02_OO_basic;
+//using Aula02_OO_basic;
 
 /*Crie uma classe chamada "Calculadora" que tenha dois métodos: "Somar" e "Subtrair". O método "Somar" deve receber
 dois números como parâmetros e retornar a soma desses números. O método "Subtrair" deve receber dois números como
 parâmetros e retornar a subtração desses números. Crie um objeto dessa classe e utilize os métodos para realizar
 operações matemáticas.*/
-/*
+
 double operando1, operando2;
 string operador;
 
@@ -74,7 +76,7 @@ operador = Console.ReadLine();
 var resultado = calc.Calcular(operando1, operando2, operador);
 
 Console.WriteLine("O resultado após " + operador + " é: " + resultado);
-*/
+
 /*Crie uma classe chamada "Pessoa" que tenha dois atributos: "Nome" e "Idade". Crie um método chamado "Apresentar" que imprima
 na tela o nome e a idade da pessoa. Crie um objeto dessa classe e chame o método "Apresentar".*/
 
@@ -87,5 +89,37 @@ Console.WriteLine(pessoa.Apresentar());
 deve receber um valor como parâmetro e subtrair esse valor do saldo da conta, desde que haja saldo suficiente. Crie um objeto
 dessa classe e utilize os métodos para realizar transações bancárias.*/
 
+ContaBancaria contaBancaria = new ContaBancaria(0);
 
+int opc;
 
+do
+{
+   Console.WriteLine("Digite uma opção:\n1 - Realizar um depósito!\n2 - Realizar um saque!\n3 - Para encerrar!\n");
+   opc = Convert.ToInt32(Console.ReadLine());
+
+   switch(opc)
+   {
+      case 1:
+         Console.WriteLine("Digite o valor a ser depositado:");
+         contaBancaria.Numero = Convert.ToDouble(Console.ReadLine());
+         Console.WriteLine("\nSeu saldo é " + contaBancaria.Depositar(contaBancaria.Numero) + "\n");
+         break;
+      case 2:
+         Console.WriteLine("Digite o valor a ser retirado:");
+         contaBancaria.Numero = Convert.ToDouble(Console.ReadLine());
+            if (contaBancaria.Sacar(contaBancaria.Numero))
+            {
+               Console.WriteLine("\nSaque efetuado com sucesso!\nSeu saldo é " + contaBancaria.Saldo + "\n");
+            }
+            else
+            {
+               Console.WriteLine("\nSaldo insuficiente!\n");
+            }
+            break;
+      case 3:
+         Console.WriteLine("Obrigado por usar nossos serviços!\n");
+         break;
+   } 
+}
+while(opc != 3);
