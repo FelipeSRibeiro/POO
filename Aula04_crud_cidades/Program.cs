@@ -1,4 +1,4 @@
-﻿using Aula03_crud_pessoas;
+﻿using Aula04_crud_cidades;
 
 int _options;
 
@@ -31,10 +31,21 @@ do
             break;
 
         case 4:
-            Console.WriteLine("Digite o Id da pessoa para excluir");
+            Console.WriteLine("Digite o Id da pessoa para excluí-la");
             int id = Convert.ToInt32(Console.ReadLine());
             PeopleRepository repository = new PeopleRepository();
             repository.DeletePeople(id);
+            break;
+        
+        case 5:
+            new UpdateCity().Update();
+            break;
+
+        case 6:
+            Console.WriteLine("Digite o Id da cidade para excluí-la");
+            var idCity = Convert.ToInt32(Console.ReadLine());
+            CityRepository repositoryCity = new CityRepository();
+            repositoryCity.DeleteCity(idCity);
             break;
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula03_crud_pessoas\obj\Debug\net7.0\Aula03_crud_pessoas.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula03_crud_pessoas\obj\Debug\net7.0\Aula03_crud_pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula03_crud_pessoas\obj\Debug\net7.0\Aula03_crud_pessoas.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula03_crud_pessoas\obj\Debug\net7.0\Aula03_crud_pessoas.AssemblyInfo.cs
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula03_crud_pessoas\obj\Debug\net7.0\Aula03_crud_pessoas.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula03_crud_pessoas\bin\Debug\net7.0\Aula03_crud_pessoas.exe
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula03_crud_pessoas\bin\Debug\net7.0\Aula03_crud_pessoas.deps.json
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula03_crud_pessoas\bin\Debug\net7.0\Aula03_crud_pessoas.runtimeconfig.json
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula03_crud_pessoas\bin\Debug\net7.0\Aula03_crud_pessoas.dll
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula03_crud_pessoas\bin\Debug\net7.0\Aula03_crud_pessoas.pdb
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula03_crud_pessoas\obj\Debug\net7.0\Aula03_crud_pessoas.dll
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula03_crud_pessoas\obj\Debug\net7.0\refint\Aula03_crud_pessoas.dll
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula03_crud_pessoas\obj\Debug\net7.0\Aula03_crud_pessoas.pdb
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula03_crud_pessoas\obj\Debug\net7.0\Aula03_crud_pessoas.genruntimeconfig.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula03_crud_pessoas\obj\Debug\net7.0\ref\Aula03_crud_pessoas.dll

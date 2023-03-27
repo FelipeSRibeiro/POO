@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula04_crud_cidades\bin\Debug\net7.0\Aula04_crud_cidades.exe
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula04_crud_cidades\bin\Debug\net7.0\Aula04_crud_cidades.deps.json
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula04_crud_cidades\bin\Debug\net7.0\Aula04_crud_cidades.runtimeconfig.json
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula04_crud_cidades\bin\Debug\net7.0\Aula04_crud_cidades.dll
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula04_crud_cidades\bin\Debug\net7.0\Aula04_crud_cidades.pdb
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula04_crud_cidades\obj\Debug\net7.0\Aula04_crud_cidades.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula04_crud_cidades\obj\Debug\net7.0\Aula04_crud_cidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula04_crud_cidades\obj\Debug\net7.0\Aula04_crud_cidades.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula04_crud_cidades\obj\Debug\net7.0\Aula04_crud_cidades.AssemblyInfo.cs
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula04_crud_cidades\obj\Debug\net7.0\Aula04_crud_cidades.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula04_crud_cidades\obj\Debug\net7.0\Aula04_crud_cidades.dll
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula04_crud_cidades\obj\Debug\net7.0\refint\Aula04_crud_cidades.dll
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula04_crud_cidades\obj\Debug\net7.0\Aula04_crud_cidades.pdb
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula04_crud_cidades\obj\Debug\net7.0\Aula04_crud_cidades.genruntimeconfig.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula04_crud_cidades\obj\Debug\net7.0\ref\Aula04_crud_cidades.dll
