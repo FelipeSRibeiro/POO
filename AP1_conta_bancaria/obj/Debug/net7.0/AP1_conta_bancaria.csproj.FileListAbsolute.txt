@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\AP1_conta_bancaria\bin\Debug\net7.0\AP1_conta_bancaria.exe
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\AP1_conta_bancaria\bin\Debug\net7.0\AP1_conta_bancaria.deps.json
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\AP1_conta_bancaria\bin\Debug\net7.0\AP1_conta_bancaria.runtimeconfig.json
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\AP1_conta_bancaria\bin\Debug\net7.0\AP1_conta_bancaria.dll
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\AP1_conta_bancaria\bin\Debug\net7.0\AP1_conta_bancaria.pdb
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\AP1_conta_bancaria\obj\Debug\net7.0\AP1_conta_bancaria.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\AP1_conta_bancaria\obj\Debug\net7.0\AP1_conta_bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\AP1_conta_bancaria\obj\Debug\net7.0\AP1_conta_bancaria.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\AP1_conta_bancaria\obj\Debug\net7.0\AP1_conta_bancaria.AssemblyInfo.cs
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\AP1_conta_bancaria\obj\Debug\net7.0\AP1_conta_bancaria.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\AP1_conta_bancaria\obj\Debug\net7.0\AP1_conta_bancaria.dll
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\AP1_conta_bancaria\obj\Debug\net7.0\refint\AP1_conta_bancaria.dll
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\AP1_conta_bancaria\obj\Debug\net7.0\AP1_conta_bancaria.pdb
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\AP1_conta_bancaria\obj\Debug\net7.0\AP1_conta_bancaria.genruntimeconfig.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\AP1_conta_bancaria\obj\Debug\net7.0\ref\AP1_conta_bancaria.dll
