@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using AP1_conta_bancaria.Client;
 using AP1_conta_bancaria.Captura;
 using AP1_conta_bancaria.Contas;

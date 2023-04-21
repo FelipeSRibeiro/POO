@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Exercicio_notas_escola\bin\Debug\net7.0\Exercicio_notas_escola.exe
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Exercicio_notas_escola\bin\Debug\net7.0\Exercicio_notas_escola.deps.json
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Exercicio_notas_escola\bin\Debug\net7.0\Exercicio_notas_escola.runtimeconfig.json
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Exercicio_notas_escola\bin\Debug\net7.0\Exercicio_notas_escola.dll
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Exercicio_notas_escola\bin\Debug\net7.0\Exercicio_notas_escola.pdb
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Exercicio_notas_escola\obj\Debug\net7.0\Exercicio_notas_escola.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Exercicio_notas_escola\obj\Debug\net7.0\Exercicio_notas_escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Exercicio_notas_escola\obj\Debug\net7.0\Exercicio_notas_escola.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Exercicio_notas_escola\obj\Debug\net7.0\Exercicio_notas_escola.AssemblyInfo.cs
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Exercicio_notas_escola\obj\Debug\net7.0\Exercicio_notas_escola.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Exercicio_notas_escola\obj\Debug\net7.0\Exercicio_notas_escola.dll
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Exercicio_notas_escola\obj\Debug\net7.0\refint\Exercicio_notas_escola.dll
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Exercicio_notas_escola\obj\Debug\net7.0\Exercicio_notas_escola.pdb
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Exercicio_notas_escola\obj\Debug\net7.0\Exercicio_notas_escola.genruntimeconfig.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Exercicio_notas_escola\obj\Debug\net7.0\ref\Exercicio_notas_escola.dll

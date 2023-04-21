@@ -8,7 +8,7 @@ namespace AP1_conta_bancaria.Contas
         private static int generateNumber = 1;
         public int Id { get; private set; }
         public string Numero { get; set; }
-        public double Saldo { get; set; }
+        public double Saldo { get;  set; }
         public Cliente Cliente { get; set; }
 
         public ContaBancaria()
@@ -19,7 +19,7 @@ namespace AP1_conta_bancaria.Contas
         {
             this.Id = generateNumber;
             generateNumber++;
-
+          
             this.Numero = numero;
             this.Saldo = saldo;
         }
