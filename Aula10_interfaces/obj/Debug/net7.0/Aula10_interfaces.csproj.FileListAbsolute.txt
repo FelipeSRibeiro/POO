@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula10_interfaces\bin\Debug\net7.0\Aula10_interfaces.exe
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula10_interfaces\bin\Debug\net7.0\Aula10_interfaces.deps.json
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula10_interfaces\bin\Debug\net7.0\Aula10_interfaces.runtimeconfig.json
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula10_interfaces\bin\Debug\net7.0\Aula10_interfaces.dll
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula10_interfaces\bin\Debug\net7.0\Aula10_interfaces.pdb
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula10_interfaces\obj\Debug\net7.0\Aula10_interfaces.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula10_interfaces\obj\Debug\net7.0\Aula10_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula10_interfaces\obj\Debug\net7.0\Aula10_interfaces.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula10_interfaces\obj\Debug\net7.0\Aula10_interfaces.AssemblyInfo.cs
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula10_interfaces\obj\Debug\net7.0\Aula10_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula10_interfaces\obj\Debug\net7.0\Aula10_interfaces.dll
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula10_interfaces\obj\Debug\net7.0\refint\Aula10_interfaces.dll
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula10_interfaces\obj\Debug\net7.0\Aula10_interfaces.pdb
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula10_interfaces\obj\Debug\net7.0\Aula10_interfaces.genruntimeconfig.cache
+C:\Users\felip\Documents\ULBRA\Análise e Desenvolvimento de Sistemas\Programação Orientada a Objetos\VS Code\POO\Github-POO-clone\Aula10_interfaces\obj\Debug\net7.0\ref\Aula10_interfaces.dll

@@ -1,6 +1,8 @@
+using Interface_animal.Interface;
+
 namespace Interface_animal.TiposAnimais
 {
-    public class Gato : Animal
+    public class Gato : IAnimal
     {
         public void EmitirSom()
         {
